@@ -1,0 +1,9 @@
+C:\! Трудоустройство\Game C#\Game\bin\Release\Game.exe.config
+C:\! Трудоустройство\Game C#\Game\bin\Release\Game.exe
+C:\! Трудоустройство\Game C#\Game\bin\Release\Game.pdb
+C:\! Трудоустройство\Game C#\Game\obj\Release\Game.FormGame.resources
+C:\! Трудоустройство\Game C#\Game\obj\Release\Game.Properties.Resources.resources
+C:\! Трудоустройство\Game C#\Game\obj\Release\Game.Resource1.resources
+C:\! Трудоустройство\Game C#\Game\obj\Release\Game.csproj.GenerateResource.Cache
+C:\! Трудоустройство\Game C#\Game\obj\Release\Game.exe
+C:\! Трудоустройство\Game C#\Game\obj\Release\Game.pdb

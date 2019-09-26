@@ -1,0 +1,13 @@
+C:\! Трудоустройство\Game C#\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\! Трудоустройство\Game C#\Game\obj\Debug\Game.FormGame.resources
+C:\! Трудоустройство\Game C#\Game\obj\Debug\Game.Properties.Resources.resources
+C:\! Трудоустройство\Game C#\Game\obj\Debug\Game.Resource1.resources
+C:\! Трудоустройство\Game C#\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+C:\! Трудоустройство\Game C#\Game\bin\Debug\GameCirclesRun.exe.config
+C:\! Трудоустройство\Game C#\Game\bin\Debug\GameCirclesRun.exe
+C:\! Трудоустройство\Game C#\Game\bin\Debug\GameCirclesRun.pdb
+C:\! Трудоустройство\Game C#\Game\obj\Debug\GameCirclesRun.exe
+C:\! Трудоустройство\Game C#\Game\obj\Debug\GameCirclesRun.pdb
+C:\! Трудоустройство\Game C#\GameCirclesRun\bin\Debug\GameCirclesRun.exe.config
+C:\! Трудоустройство\Game C#\GameCirclesRun\obj\Debug\GameCirclesRun.exe
+C:\! Трудоустройство\Game C#\GameCirclesRun\obj\Debug\GameCirclesRun.pdb
